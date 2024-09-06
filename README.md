@@ -9,8 +9,8 @@ This website showcases the beauty and diversity of different cultures worldwide.
 - European Culture
 
 ## How to Run the Project
-1. Clone the repository.
-2. Open `index.html` in a web browser.
+1. Clone the repository
+2. Open `index.html` in a web browser
 
 ## Contribution Guidelines
 
