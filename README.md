@@ -20,4 +20,4 @@ Learn about the varied cultural heritage and traditions found throughout Europe.
    To get a local copy of the project, run the following command in your terminal:
 
    ```bash
-   git clone https://github.com/your-username/cultural-exploration-website.git
+   git clone https://github.com/Timothyke/cultural-exploration-website.git
